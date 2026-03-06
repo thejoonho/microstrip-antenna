@@ -1,5 +1,8 @@
 # Microstrip Antenna: FINCH Antenna
 
+>[!IMPORTANT]
+> I'll eventually make a document of the antenna's specifications, Ansys HFSS simulations, and antenna measurements... once final exams are over 😁
+
 ![head](https://github.com/thejoonho/microstrip-antenna/blob/main/images/microstrip-antenna.jpeg)
 
 📡  I designed and optimized a dual-patch microstrip antenna for a 3U CubeSat, utilizing Ansys HFSS for electromagnetic modeling and Altium Designer for PCB fabrication to ensure high-gain communication for the University of Toronto Aerospace Team (UTAT).
