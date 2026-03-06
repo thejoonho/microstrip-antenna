@@ -1,4 +1,4 @@
-# Microstrip Antenna: FINCH Antenna
+# Microstrip Antenna
 
 >[!NOTE]
 > I'll eventually make a document of the antenna's specifications, Ansys HFSS simulations, and the antenna measurements... once my final exams are over 😁
