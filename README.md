@@ -5,9 +5,9 @@
 
 ![head](https://github.com/thejoonho/microstrip-antenna/blob/main/images/microstrip-antenna.jpeg)
 
-📡  I designed and optimized a dual-patch microstrip antenna for a 3U CubeSat, utilizing Ansys HFSS for electromagnetic modeling and Altium Designer for PCB fabrication to ensure high-gain communication for the University of Toronto Aerospace Team (UTAT).
+📡  I designed and optimized a dual-patch microstrip antenna for the University of Toronto Aerospace Team (UTAT) 3U CubeSat. I utilized Ansys HFSS for electromagnetic modeling and Altium Designer for PCB fabrication to ensure high-gain communication between the satellite and the ground station.
 
-🤓👆: The current prototype uses a 1.6 mm FR-4 substrate to evaluate how closely the Ansys HFSS simulations match real-world antenna measurements at low cost. Once the simulation results are validated, the final antenna will be fabricated using Rogers RO4350B to achieve higher gain and improved radiation efficiency.
+🤓👆: The current prototype uses a 1.6mm FR-4 substrate to evaluate how closely the Ansys HFSS simulations match real-world antenna measurements at low cost. Once the simulation results are validated, the final antenna will be fabricated using Rogers RO4350B to achieve higher gain and improved radiation efficiency.
 
 ## 🗄️ Project Files
 
