@@ -1,7 +1,7 @@
 # Microstrip Antenna
 
 >[!NOTE]
-> I'll eventually make a document of the antenna's specifications, Ansys HFSS simulations, and the antenna measurements... once my final exams are over 😁
+> I'll eventually make a document of the antenna's specifications, Ansys HFSS simulations, and the antenna measurements... once my exams are over 😁
 
 ![head](https://github.com/thejoonho/microstrip-antenna/blob/main/images/microstrip-antenna.jpeg)
 
