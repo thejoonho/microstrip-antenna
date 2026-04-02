@@ -9,7 +9,7 @@
 
 🤓👆: The current prototype uses a 1.6mm FR-4 substrate to evaluate how closely the Ansys HFSS simulations match real-world antenna measurements at low cost. Once the simulation results are validated, the final antenna will be fabricated using Rogers RO4350B to achieve higher gain and improved radiation efficiency.
 
-🌟 I was awarded the _[New Member Excellence Award](https://github.com/thejoonho/radio-receiver/blob/main/award.pdf)_ for advancing the UTAT team's RF capabilities. 
+🌟 I was awarded the _[New Member Excellence Award](https://github.com/thejoonho/microstrip-antenna/blob/main/award.pdf)_ for advancing the UTAT team's RF capabilities. 
 
 ## 🗄️ Project Files
 
