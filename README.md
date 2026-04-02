@@ -9,6 +9,8 @@
 
 🤓👆: The current prototype uses a 1.6mm FR-4 substrate to evaluate how closely the Ansys HFSS simulations match real-world antenna measurements at low cost. Once the simulation results are validated, the final antenna will be fabricated using Rogers RO4350B to achieve higher gain and improved radiation efficiency.
 
+🌟 I was awarded the New Member Excellence Award for advancing the UTAT team's RF capabilities. 
+
 ## 🗄️ Project Files
 
 - 🪄 **Altium Designer:** [FINCH Antenna](https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=A9E57BFA-EE4E-4811-9BEF-213E505588C5&activeView=3D)
